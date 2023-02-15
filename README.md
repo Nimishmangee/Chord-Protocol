@@ -64,3 +64,13 @@ here "port number of new node" is the port at which the node will listen for req
 *How to Run/ Usage:* `python Client.py`
 
 The client is menu driven where we need to provide inputs like the port number of the node which the client wants to connect to and then the option according to the task the client wants to perform like insert, search, delete etc.
+
+
+### Results 
+![Insert Initial Node](images/1.png)
+![View1](images/ring_draw1.png)
+![Insert Second Node](images/2.png)
+![View2](images/ring_draw2.png)
+![Insert Key1](images/3.png)
+![Insert Key2](images/4.png)
+![Delete Key](images/5.png)
